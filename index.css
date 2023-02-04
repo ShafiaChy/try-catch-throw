@@ -1,0 +1,26 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    
+}
+h1{
+    font-size: 42px;
+}
+
+#age-field{
+    width: 85%;
+    height: 30px;
+  
+}
+
+button{
+   height: 35px;
+   padding: 0 10px;
+   cursor: pointer;
+}
+
+#show-error{
+    color: red;
+}

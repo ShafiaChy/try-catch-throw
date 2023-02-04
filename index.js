@@ -14,6 +14,6 @@ function checkAge() {
       throw "Above 30";
     }
   } catch (err) {
-    message.innerHTML = "Age is " + err;
+    message.innerHTML = "Input is " + err;
   }
 }
